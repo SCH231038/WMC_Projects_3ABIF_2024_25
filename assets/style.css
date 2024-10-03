@@ -31,3 +31,10 @@ section {
   border: 2px solid green;
 }
 
+article > section {
+  background-color: red;
+}
+
+article section {
+  border: 5px solid darkred;
+}
