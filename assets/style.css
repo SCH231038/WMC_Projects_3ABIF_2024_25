@@ -4,7 +4,7 @@ body {
   background: grey;
 }
 header {
-  background: lightgray;
+  background: gray;
 }
 footer {
   background: blueviolet;
@@ -12,3 +12,22 @@ footer {
   padding: 10px;
   text-align: center;
 }
+
+* {
+  color: blueviolet;
+}
+
+section {
+  background: lightblue;
+}
+
+.custom-li-element {
+  background: lightblue;
+  color: red;
+}
+
+.lime {
+  background: lime;
+  border: 2px solid green;
+}
+
