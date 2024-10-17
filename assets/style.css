@@ -1,10 +1,13 @@
 @charset "UTF-8";
-
+:root {
+  --primary-color: blue;
+  --secondary-color: red;
+}
 body {
   background: grey;
 }
 header {
-  background: gray;
+  background: white;
 }
 footer {
   background: blueviolet;
